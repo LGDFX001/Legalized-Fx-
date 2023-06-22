@@ -1,0 +1,21 @@
+{
+  "address" : "0xe6ec89809e8dc78c62204d6ace883d9b19e58ceb",
+  "crypto" : {
+    "cipher" : "aes-128-ctr",
+    "cipherparams" : {
+      "iv" : "0xd084d70b37a3b80e5c63957084b8e893"
+    },
+    "ciphertext" : "0xd36814be7dd2a9d03513a9348432e9eb28ecca0c8c6f56a566d9f62eb2fc775cdc1f91b3f14a2c3a35dda71f5c0c0e5faf298abf27095763495d96dcf42cabb17a05625733e29ae51bd6e0c125cc90ba",
+    "kdf" : "pbkdf2",
+    "kdfparams" : {
+      "c" : 100000,
+      "dklen" : 32,
+      "prf" : "hmac-sha256",
+      "salt" : "0x1ad21aef2e894f1df308c4f74e48ba54"
+    },
+    "mac" : "0x4189e5cc6e49acd042b1281a6e92bd5ce6cd0b4bfcb35fed5e63293386b1d91b"
+  },
+  "id" : "89d3750d7f68927623fb0e9758678cf4fcace53ef6a4a3f148705b7c150ae850",
+  "redditBackupData" : "eyJ2ZXJzaW9uIjoxLCJlbmNyeXB0ZWRCYWNrdXBEYXRhIjoicnlCOC85Q3l1bkVxUEtaL3gwQUZBZUFIa1BEZ2lCSnZERzd5Q3creEJ1aEcxekhlOGM5RGM1Mi9XbXBiUnZybkIxV3VWK1BiSnBITmdGaWRhZHMvZ1B3MG9iVDl0K2RyTjc5Q09zZW1YL1dVS1ZOZk1NSk10NHo4YXJaRUhXd2xVOEhacUNGV0xnQnd3UERKRWFiREcxb3J0Ly8rYkZKdktERUhKbHAvYnYrZnNNV0dIUXgraDNXRE1DSys5M3BkNEJYdEdVdXVwRVVXeC9PZHRUbEY1UkRiZ1Z3Q0N2UHBOL0FlMGNRTE54WE5va2x4Kyt0NmpZYz0ifQ==",
+  "version" : 3
+}
